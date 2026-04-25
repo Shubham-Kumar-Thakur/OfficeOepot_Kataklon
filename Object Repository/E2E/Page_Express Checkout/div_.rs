@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>2378a1bc-db6a-4e6b-b418-5458ab2be41d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'cboxLoadedContent']//*[@onclick = 'if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.closeDatePopup();']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboxLoadedContent [onclick=&quot;if\ \(\!window\.__cfRLUnblockHandlers\)\ return\ false\;\ ACC\.warrantySafe\.closeDatePopup\(\)\;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96101e88-8653-4ce4-8b1a-7be43401cb28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-button</value>
+      <webElementGuid>8299b596-3d02-4ee6-bb48-ebc853429ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.closeDatePopup();</value>
+      <webElementGuid>d3b0ee52-563d-4061-987e-b4d52aab3e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>5de988a4-cb1a-4405-8bca-45a7c16913c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-78586b89d724fdf924241d2aa02d742f</value>
+      <webElementGuid>d382adb8-bd10-4e81-af02-28395602563b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxLoadedContent']//*[@onclick = 'if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.closeDatePopup();']</value>
+      <webElementGuid>539233e9-a160-433b-972d-089dae76e610</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxLoadedContent']//*[@onclick = 'if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.closeDatePopup();']</value>
+      <webElementGuid>d118880e-3102-4ffe-9ae7-c6db6d059484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×' or . = '×')]</value>
+      <webElementGuid>f8d25d56-9222-44f1-93fa-fd9e477b8384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

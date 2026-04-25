@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_flecha-cantidad-mb</name>
+   <tag></tag>
+   <elementGuidId>ea33561e-8d68-4d45-be52-2be73a980978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'flecha-cantidad-mb']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flecha-cantidad-mb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20ec46a9-bdb7-4ca5-a496-ee34602b1261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>flecha-cantidad-mb</value>
+      <webElementGuid>52fafc8d-0140-44aa-960b-6b06fbccad3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flecha-close</value>
+      <webElementGuid>5d2125d7-3c1b-4e57-9d50-d7fedf8b1729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-eba051d977cd840b108d6ce91e3d36cc</value>
+      <webElementGuid>2dbca6a1-ef1a-4dcf-b270-4381739b1002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'flecha-cantidad-mb']</value>
+      <webElementGuid>092f8d3d-dd0e-4e36-9967-13606b69648f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'flecha-cantidad-mb']</value>
+      <webElementGuid>20b5cc23-dc99-4b3b-b389-45de25c21a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'flecha-cantidad-mb']</value>
+      <webElementGuid>a978e08b-f67c-402b-8d76-32d7f0142953</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

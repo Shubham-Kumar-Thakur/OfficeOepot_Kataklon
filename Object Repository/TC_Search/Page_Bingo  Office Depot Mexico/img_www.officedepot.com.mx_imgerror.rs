@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_www.officedepot.com.mx_imgerror</name>
+   <tag></tag>
+   <elementGuidId>e04362b4-5d28-4c6d-a346-ea551f2c2e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Error 404. No encontrado']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.imgerror</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>12c0d719-0978-4046-bcb1-d81306359fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>imgerror</value>
+      <webElementGuid>f649dcfe-4ec0-49b3-a769-3899c88fdbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Error 404. No encontrado</value>
+      <webElementGuid>5b9ad1af-5529-4603-aa21-ad875ad5cb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_ui/responsive/theme-officedepot/images/error/sinresultado.PNG</value>
+      <webElementGuid>17ee6a19-211d-4807-8865-eeed87343763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-searchEmpty pageType-ContentPage template-pages-search-searchEmptyPage pageLabel-searchEmpty smartedit-page-uid-searchEmpty smartedit-page-uuid-eyJpdGVtSWQiOiJzZWFyY2hFbXB0eSIsImNhdGFsb2dJZCI6Im9mZmljZWRlcG90Q29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9 smartedit-catalog-version-uuid-officedepotContentCatalog/Online  language-en&quot;]/main[1]/div[@class=&quot;cnt-page account-section-content cancelacan&quot;]/div[@class=&quot;container custom-error404&quot;]/div[@class=&quot;row error404-wrapper&quot;]/div[@class=&quot;error404-left&quot;]/img[@class=&quot;imgerror&quot;]</value>
+      <webElementGuid>2f88cf58-fd0e-427e-9a4b-3fba45c8d10a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Error 404. No encontrado']</value>
+      <webElementGuid>6a24872c-a411-47e2-8379-b695e4debd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/img</value>
+      <webElementGuid>c40d306d-ad9c-4281-824a-f1bcf8869bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Error 404. No encontrado' and @src = '/_ui/responsive/theme-officedepot/images/error/sinresultado.PNG']</value>
+      <webElementGuid>0cb7d6bc-6735-4760-a5db-7ca18cbce98e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

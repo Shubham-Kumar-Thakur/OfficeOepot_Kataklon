@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CONTINUAR</name>
+   <tag></tag>
+   <elementGuidId>e491632e-2582-42c6-a9ad-71bac4e9d86e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'cboxLoadedContent']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' birthday-continue-btn ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboxLoadedContent .birthday-continue-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea8542ed-26b3-40aa-a6a9-93adb6b587f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>birthday-continue-btn</value>
+      <webElementGuid>0b85b0c3-83cd-45a5-b1b4-0334dbcab32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>if (!window.__cfRLUnblockHandlers) return false; ACC.warrantySafe.sendDateWarranty_gs();</value>
+      <webElementGuid>f5946fdb-774b-4ef6-890b-2ca15c8033e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUAR</value>
+      <webElementGuid>57f6cbd4-0cf7-4fec-bf33-b3e4bc4ca601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-102e61d9ae1d91f0bbb015e4b2396036</value>
+      <webElementGuid>1ee4e278-a42f-4659-941f-c219b89f2a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxLoadedContent']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' birthday-continue-btn ')]</value>
+      <webElementGuid>ec1e8e45-b69f-4603-8ec1-223cdd3c02d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxLoadedContent']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' birthday-continue-btn ')]</value>
+      <webElementGuid>f75f6b94-e463-4903-bf32-725cc5b74df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
+      <webElementGuid>68ed2190-0123-408f-a306-95539a1db461</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

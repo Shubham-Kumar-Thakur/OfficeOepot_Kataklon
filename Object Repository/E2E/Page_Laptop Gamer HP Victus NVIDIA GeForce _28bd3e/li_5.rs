@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_5</name>
+   <tag></tag>
+   <elementGuidId>25308f3b-99ff-455a-96f6-21917462b9b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'elementos-select-mb']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' opcion ') and (position() = 5)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#elementos-select-mb .opcion:nth-child(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>297fe65e-1f93-4ed7-925c-095311a6228e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valor</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>4a2b8888-4fc2-4282-addf-ad60a6cea10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>opcion</value>
+      <webElementGuid>b4ba12b0-cedd-4ea5-ac94-28d9a6dae198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>6d8eb7f4-a8b2-43b9-949c-06506883f52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cfaddd736604406b053a1483c2aa6fd7</value>
+      <webElementGuid>56c0aaea-9a07-44bb-9d73-c75b9ad8b6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'elementos-select-mb']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' opcion ') and (position() = 5)]</value>
+      <webElementGuid>97058e45-a9e7-4fbb-905b-2f5a9e964be7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'elementos-select-mb']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' opcion ') and (position() = 5)]</value>
+      <webElementGuid>82a5c9c6-1cf9-4248-b432-bfaf4e4f4428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '5' or . = '5')]</value>
+      <webElementGuid>97333d66-8a85-4854-8606-dcf474b798d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

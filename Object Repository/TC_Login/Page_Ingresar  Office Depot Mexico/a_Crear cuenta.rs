@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Crear cuenta</name>
+   <tag></tag>
+   <elementGuidId>64a1dba2-c3fc-43f7-bb11-63e8f29aff54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='loginbuttonLinkRegister']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginbuttonLinkRegister</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e589dad4-150f-4f22-9bc0-7d0b735cb23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/officedepot/en/login/register</value>
+      <webElementGuid>998c5377-8b0e-4319-92b0-e7a9191e5f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginbuttonLinkRegister</value>
+      <webElementGuid>0551a2ff-89f9-4fd1-a8df-637aa43bc9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block w-100 btn btn-secondary-theme font-bold</value>
+      <webElementGuid>a85ff76b-0a4c-4912-9e78-e9d73af1101c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Crear cuenta</value>
+      <webElementGuid>1dce48cb-f4c4-4a4d-a471-b4260840a19c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginbuttonLinkRegister&quot;)</value>
+      <webElementGuid>660fa09f-09de-4339-89a7-8012dcc72e94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='loginbuttonLinkRegister']</value>
+      <webElementGuid>4d1bd1ce-3b63-48c6-aa83-0a3d6caeca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crear cuenta')]</value>
+      <webElementGuid>bcbaa0c3-7a3d-475e-9eb5-f9c52b6d84f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[1]/following::a[1]</value>
+      <webElementGuid>725c17c3-6bab-4125-a95e-ee6f839b387a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[2]/following::a[1]</value>
+      <webElementGuid>9b301390-75d8-47c3-b337-3af19fe78d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear cuenta']/parent::*</value>
+      <webElementGuid>8a36efb1-dc8f-468c-ad65-d8fafc81020e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/officedepot/en/login/register')]</value>
+      <webElementGuid>272fa6da-722f-4582-baa7-a4f72f026cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a</value>
+      <webElementGuid>f6cd4a55-22c5-4eb3-a163-95f9ed87000d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/officedepot/en/login/register' and @id = 'loginbuttonLinkRegister' and (text() = '
+				Crear cuenta' or . = '
+				Crear cuenta')]</value>
+      <webElementGuid>7ed1bc11-4c1d-44dc-a684-51c600dbb908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

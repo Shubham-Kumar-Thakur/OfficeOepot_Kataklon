@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Marca</name>
+   <tag></tag>
+   <elementGuidId>89cfbcd5-933f-48c1-b037-fb65f734c4e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Marca ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#filtrar-menu_dsk .facet-cnt-Marca .facet__name-txt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>167563ff-ef53-4d1e-b402-5052f5f5ec51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet__name-txt</value>
+      <webElementGuid>a7170e7a-a450-4908-8bdb-771332519386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Marca</value>
+      <webElementGuid>a036b87e-f0f0-42a6-b5b7-d40dec3953b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-482af60284a69d3f9fd5b251e40d98ea</value>
+      <webElementGuid>34963377-9b4b-4da4-822c-1e0187e9e379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Marca ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>5f16208e-19ad-4b51-b6ec-44496e7af714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Marca ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>969414c0-28e5-43fb-9bf2-c666cbb9059d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Marca' or . = '
+				Marca')]</value>
+      <webElementGuid>3cb8ddaa-cf79-46ab-bb2d-636dbcbd2a4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_cboxOverlay</name>
+   <tag></tag>
+   <elementGuidId>1fb9168c-f028-45a9-a607-ad10013b914d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'cboxOverlay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboxOverlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57764340-2f27-41fb-93f3-52db8108b23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cboxOverlay</value>
+      <webElementGuid>33ab4f34-b621-4b2d-a8c8-a74d768f9551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>get_popup_more_gs_date</value>
+      <webElementGuid>0d96e2c2-dd6b-4969-a5b1-5311460a941d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ef215d5f98c4f0928df9ca297c75b875</value>
+      <webElementGuid>ffd05e22-5f63-4fee-87dd-4a3c58ddee0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxOverlay']</value>
+      <webElementGuid>144c0545-527b-44c6-ad0a-8218977da179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'cboxOverlay']</value>
+      <webElementGuid>d9ebe6d9-c328-4e5c-bb6a-8fde9c478f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cboxOverlay']</value>
+      <webElementGuid>6adb7998-e68e-4f42-bea4-79958f391579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

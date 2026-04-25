@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inicia</name>
+   <tag></tag>
+   <elementGuidId>209d5b36-213a-4b72-8f20-ebd1ed3119c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text_mc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba07a956-9d97-48fb-87a8-ce2bcd14954a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_mc</value>
+      <webElementGuid>aaed2e4e-e170-43fb-8f12-a3f10822f3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inicia</value>
+      <webElementGuid>1db8a741-e9ef-4653-ad25-a29abbef5dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a2466535db3cd59ac8a7cc9e0ebf4255</value>
+      <webElementGuid>2b6bfbb4-5b01-41b3-a117-ad1632aec30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      <webElementGuid>09c9f1a3-074b-4716-824f-6691dd8244c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      <webElementGuid>772d1e6f-e17a-4f4f-8c10-ac38f19a2750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Inicia' or . = 'Inicia')]</value>
+      <webElementGuid>680c0c51-7e66-4a67-bb1f-58b6977e949e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

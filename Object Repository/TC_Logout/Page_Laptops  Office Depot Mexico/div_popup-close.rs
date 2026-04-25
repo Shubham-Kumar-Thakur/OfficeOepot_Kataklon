@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_popup-close</name>
+   <tag></tag>
+   <elementGuidId>da81a214-945f-4cc6-acfb-f92a35d241d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'popup-close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#popup-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0890938-2610-4bd9-b86b-2ed7eb104222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-close</value>
+      <webElementGuid>a478d38a-8422-4cae-ab7d-43e298777985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>popup-close</value>
+      <webElementGuid>8da883ac-3c91-4178-8bbf-1b542165dba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>8099f7e6-09dd-426e-9289-3ca2caa638e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-04cf18e7cc01aed5222795d81bfe73fd</value>
+      <webElementGuid>2c84071d-1595-4a14-b521-f4d462fda7c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'popup-close']</value>
+      <webElementGuid>aa06961a-f12e-4648-8bf9-5d3bc9a5cc6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'popup-close']</value>
+      <webElementGuid>dece7383-3630-4f7e-a7e8-a4beddfab11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'popup-close' and (text() = '×' or . = '×')]</value>
+      <webElementGuid>058f5a41-b6e1-4e28-87bb-0e5780ea50c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

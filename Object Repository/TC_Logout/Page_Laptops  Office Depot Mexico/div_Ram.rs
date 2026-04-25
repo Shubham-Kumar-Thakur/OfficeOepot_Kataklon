@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ram</name>
+   <tag></tag>
+   <elementGuidId>f7ca56f7-e6af-4882-a894-518545fc1565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Ram ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#filtrar-menu_dsk .facet-cnt-Ram .facet__name-txt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fab12d2-f2c3-4a88-81cb-84f9e6ca37fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet__name-txt</value>
+      <webElementGuid>979ea7c9-2590-4c68-86ac-fe3a8ce539f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Ram</value>
+      <webElementGuid>28247b2f-9ea6-4543-8d98-ad6cafda7383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e2ad7800aeb74e096730e6857267dfc1</value>
+      <webElementGuid>72136736-5f14-41d6-971c-10660b2be6fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Ram ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>275fe6b1-b185-4e0c-aac4-ca6e2df76c1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Ram ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>736d7e18-9549-4602-a572-54e773f06902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Ram' or . = '
+				Ram')]</value>
+      <webElementGuid>d134d91e-171b-461c-967a-61d8745aceb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

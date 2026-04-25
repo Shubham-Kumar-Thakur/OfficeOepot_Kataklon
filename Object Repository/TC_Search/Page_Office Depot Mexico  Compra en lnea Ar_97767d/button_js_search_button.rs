@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_js_search_button</name>
+   <tag></tag>
+   <elementGuidId>35672565-dd0e-4837-ad31-ef34e4efcaf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'js_search_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#js_search_button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'js_search_button' and @type = 'submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>242fda96-21b1-4c81-baff-8889897fcd58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link js_search_button</value>
+      <webElementGuid>d707c432-d9a3-4842-b84d-39051b9f0776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>js_search_button</value>
+      <webElementGuid>34586e6a-4d2f-4db0-8fa7-95e08a52837f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>54ee2a22-c2ad-4769-a574-aad98a0aa701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>41c96836-6c64-43c3-8441-a7bd46a5bde5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-017e84054db0916c58066a4136138b83</value>
+      <webElementGuid>1d5a4aa7-7fd3-4b0c-98b3-556011e88a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'js_search_button']</value>
+      <webElementGuid>d8bdfcc8-4175-4515-a71e-86f6c8c89566</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'js_search_button']</value>
+      <webElementGuid>f95a3417-f82c-4426-b80f-224e9fd1c025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'js_search_button' and @type = 'submit']</value>
+      <webElementGuid>eb29245a-ef35-4716-bf37-48473a2a6080</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

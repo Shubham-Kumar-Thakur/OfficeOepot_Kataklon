@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__Contrasea</name>
+   <tag></tag>
+   <elementGuidId>efc24813-c0c6-4e3e-a0d4-e37a36439a95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@for = 'j_passwordexpress']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[for=&quot;j_passwordexpress&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6604df0e-d03d-4cdb-858b-ca08019611f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>j_passwordexpress</value>
+      <webElementGuid>faabbd54-0a81-4bda-a455-304c647156dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-material-label font-medium d-block w-100 </value>
+      <webElementGuid>27f3b74f-5c16-4dcb-a632-f407301aafcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Contraseña</value>
+      <webElementGuid>f2db3757-f547-4082-9f76-892a6943430b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c5819ed1c354413031612893c22070e1</value>
+      <webElementGuid>a1c0c143-4c02-4057-9c97-e4f85e2ef8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@for = 'j_passwordexpress']</value>
+      <webElementGuid>4562be4c-3c76-4896-a8ae-d04e85ea5a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@for = 'j_passwordexpress']</value>
+      <webElementGuid>9a4209b6-d9e4-4939-a635-7971e01dea40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '*Contraseña' or . = '*Contraseña')]</value>
+      <webElementGuid>89679928-772f-4ee0-aa64-7360b3fc653d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

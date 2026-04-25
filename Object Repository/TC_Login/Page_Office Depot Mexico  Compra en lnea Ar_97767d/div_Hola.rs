@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hola</name>
+   <tag></tag>
+   <elementGuidId>95d4c6aa-c811-416d-b4ab-ba4a1b9837b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text_mc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>355cbb05-8c54-4629-8536-321b416bd8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_mc</value>
+      <webElementGuid>2f264010-3f4f-4d66-af5b-37b35f980770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hola,</value>
+      <webElementGuid>5277b73c-3a20-48d8-ab73-dceb0ed7e67a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a2466535db3cd59ac8a7cc9e0ebf4255</value>
+      <webElementGuid>db0d6be4-c225-4033-9829-3ebe2fd05038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      <webElementGuid>c80114f7-d3a0-4994-97a7-a4c0f402e453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text_mc ')]</value>
+      <webElementGuid>623576f2-41fa-4ada-b9d6-0a918b272715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hola,' or . = 'Hola,')]</value>
+      <webElementGuid>a6c3d1f4-91c8-4328-b2df-efd475110ab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

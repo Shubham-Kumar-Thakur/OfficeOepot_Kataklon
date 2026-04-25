@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Procesador</name>
+   <tag></tag>
+   <elementGuidId>6f2c22a1-008c-489b-b3dc-bbb2012d61a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Procesador ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#filtrar-menu_dsk .facet-cnt-Procesador .facet__name-txt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4f0d0d3-4f03-4bde-8dec-c3b00d829636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet__name-txt</value>
+      <webElementGuid>5e535c34-d299-4096-b692-e4b533f4f710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Procesador</value>
+      <webElementGuid>a1ba0e63-97db-48bb-b816-f36aae7bf063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5931a5635fa1db3d3e75cf2ca135b67e</value>
+      <webElementGuid>f8b32ec5-916f-404f-adc6-21b797a662e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Procesador ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>78e206cc-5aba-4187-9c6b-be6625db5108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'filtrar-menu_dsk']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet-cnt-Procesador ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' facet__name-txt ')]</value>
+      <webElementGuid>181498be-bd9e-4f9d-a066-20d32c6476aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Procesador' or . = '
+				Procesador')]</value>
+      <webElementGuid>a06f8426-d340-4d4b-ac56-38577367f741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

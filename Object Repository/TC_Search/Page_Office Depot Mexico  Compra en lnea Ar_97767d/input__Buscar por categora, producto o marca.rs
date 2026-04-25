@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__Buscar por categora, producto o marca</name>
+   <tag></tag>
+   <elementGuidId>ba9bc98e-a2d4-4e76-90d9-267c21310dee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'js-site-search-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#js-site-search-input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'js-site-search-input' and @name = 'text' and @placeholder = '*Buscar por categoría, producto o marca']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9d75bc9c-4478-4b0a-9f01-0ace679feab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>49ea6c37-b82c-4683-9231-6b4440002158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>js-site-search-input</value>
+      <webElementGuid>197e50c3-ffa3-437c-af9f-9ddca168dddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>if (!window.__cfRLUnblockHandlers) return false; $(this).val($(this).val().replace(/^\s+/gm,'')); $('.js_search_button').prop('disabled', this.value == '' ? true : false)</value>
+      <webElementGuid>bc990fad-c954-44cf-b529-5480aa91b6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control js-site-search-input</value>
+      <webElementGuid>0ee2fa7c-89fc-4061-8bfd-f1691ff004c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>69b465eb-68ea-4483-9af2-29d95c3b0df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>0b6c3d83-cc0b-4add-a7a3-5a131bdb59c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>*Buscar por categoría, producto o marca</value>
+      <webElementGuid>c6bb917b-806f-4463-a8ec-3be45fd4786b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-options</name>
+      <type>Main</type>
+      <value>{&quot;autocompleteUrl&quot; : &quot;/officedepot/en/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}</value>
+      <webElementGuid>613834fc-f9c4-4c54-adaa-5c45fd25c696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0b0f8139802fd6ac70bc0974176e9a59</value>
+      <webElementGuid>f02ae048-9ddf-44db-abdf-052df8ebc1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'js-site-search-input']</value>
+      <webElementGuid>983bcc0c-2ccb-4450-b675-9805ce0f40f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'js-site-search-input']</value>
+      <webElementGuid>1391939e-7bce-410f-ac5b-65a815a237a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'js-site-search-input' and @name = 'text' and @placeholder = '*Buscar por categoría, producto o marca']</value>
+      <webElementGuid>3f55563f-389d-433d-8673-0053ed93de05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_view-password</name>
+   <tag></tag>
+   <elementGuidId>a92b6e82-6e4e-43cd-ac9d-1f8e45de4d03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' view-password ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.view-password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98f65640-1a22-41a1-af80-226a02f46b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>view-password</value>
+      <webElementGuid>f9ba9f28-6f8f-4495-8fa4-1eb31601f0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b6c9de3d3d93eae3566fddafcf3b7173</value>
+      <webElementGuid>7c65903b-bc87-45a1-b801-4474ed03fa62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' view-password ')]</value>
+      <webElementGuid>a89ff364-3f83-41ec-a227-6d8204e0aeb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' view-password ')]</value>
+      <webElementGuid>e67bb4df-a1a9-465d-b72b-2c82de09ca59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_114,840.00</name>
+   <tag></tag>
+   <elementGuidId>d7644d87-ba3d-4ebb-851f-e738909086bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' product-entry ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' after-price ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.product-entry:nth-child(10) .after-price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bce3ac0-97a7-4042-9244-a28bcc304932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>after-price</value>
+      <webElementGuid>9746b224-8324-4966-9b7c-8c525d3e71ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        $114,840.00
+                            </value>
+      <webElementGuid>4e9a39c5-b5ea-4b66-94f5-cafb989dd123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f8f9df070f8aa864ede6f118dcc3865c</value>
+      <webElementGuid>f574ec0a-0120-47a4-9a14-ec8d4a8797bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' product-entry ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' after-price ')]</value>
+      <webElementGuid>039a9f45-d8f6-436e-8c48-d4054bb69402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' product-entry ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' after-price ')]</value>
+      <webElementGuid>4d88cf8b-8339-4566-8463-0ddb14eb4d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        $114,840.00
+                            ' or . = '
+                        $114,840.00
+                            ')]</value>
+      <webElementGuid>6aab463b-9be6-4528-a6af-5fe819d1a385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
