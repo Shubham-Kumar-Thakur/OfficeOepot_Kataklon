@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Marca</name>
+   <tag></tag>
+   <elementGuidId>f87ffd6b-3762-4cd1-a9e9-52878fd5a42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.facet__name-txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product__facet']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#filtrar-menu_dsk >> internal:text=&quot;Marca&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6ab30de-28c5-4b5a-8d33-8b4dea234b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet__name-txt</value>
+      <webElementGuid>8699da85-6ccf-450d-91b5-a0341cf3c723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Marca</value>
+      <webElementGuid>230a4c98-9dac-4b55-9635-c793747451b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filtrar-menu_dsk&quot;)/div[@id=&quot;product__facet&quot;]/div[@class=&quot;facet js-facet facet-cnt-Marca&quot;]/div[@class=&quot;facet__name js-facet-name&quot;]/div[@class=&quot;facet__name-txt&quot;]</value>
+      <webElementGuid>63f1ff25-df04-4518-ba7d-2e6f0c395f6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product__facet']/div/div/div</value>
+      <webElementGuid>da7f4e4c-fdbc-4d31-b9ee-f522e7309d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtros'])[1]/following::div[7]</value>
+      <webElementGuid>53a9d5fd-5bf1-47ee-a2d4-b750b7b9e409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.officedepot.com.mx'])[2]/following::div[65]</value>
+      <webElementGuid>d3fd3a69-3447-4aec-ab8a-dc828f2068e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::div[1]</value>
+      <webElementGuid>1c437b2b-ed9d-43fe-9a68-89b09fcefb01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACER'])[1]/preceding::div[2]</value>
+      <webElementGuid>b5424a4d-02d6-4834-b6b6-35ca807bb11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marca']/parent::*</value>
+      <webElementGuid>aa5303d5-2a2a-48b9-bcb9-32d196426976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>5b8acdd2-30ce-432b-b1e9-8601a2ebac48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Marca' or . = '
+				Marca')]</value>
+      <webElementGuid>229367b6-3928-4741-b203-4d960dc73465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

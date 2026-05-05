@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Product details page</description>
+   <name>TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a4c4f30-8b87-4de3-a42e-aa6895720beb</testCaseGuid>
+</TestCaseEntity>
